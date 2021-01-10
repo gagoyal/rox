@@ -1,7 +1,7 @@
 aiohttp==2.3.10
 aniso8601==3.0.0
 asn1crypto==0.24.0
-async-timeout==3.0.0
+async-timeout==3.0.1
 base58==0.2.5
 BigchainDB==2.0.0a1
 bigchaindb-driver==0.5.0a1
