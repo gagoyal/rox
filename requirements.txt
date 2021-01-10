@@ -38,7 +38,7 @@ pytz==2018.4
 requests==2.20.0
 PyYAML==5.1
 rethinkdb==2.3.0.post6
-shellescape==3.4.1
+shellescape==3.8.1
 six==1.11.0
 statsd==3.2.1
 Werkzeug==0.15.3
