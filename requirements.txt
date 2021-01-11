@@ -17,7 +17,7 @@ Flask-RESTful==0.3.6
 gunicorn==19.8.1
 idna==2.6
 idna-ssl==1.0.1
-ipfsapi==0.4.2.post1
+ipfsapi==0.4.4
 itsdangerous==0.24
 Jinja2==2.10.1
 jsonschema==2.5.1
