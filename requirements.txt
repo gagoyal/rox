@@ -23,7 +23,7 @@ Jinja2==2.10.1
 jsonschema==2.5.1
 logstats==0.2.1
 MarkupSafe==1.0
-multidict==4.3.1
+multidict==5.1.0
 multipipes==0.1.0
 Naked==0.1.31
 pyasn1==0.2.3
